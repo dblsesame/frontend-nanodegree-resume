@@ -23,7 +23,8 @@ h1 {
 h2 {
   font-weight: bold;
   font-size: 24px;
-  color: #999999;
+  color: #47c832;
+  background-color: #333;
   line-height: 29px;
   padding: 10px;
 }
@@ -73,7 +74,7 @@ p {
 }
 
 a {
-  color: #1199C3;
+  color: #3711c3;
   text-decoration: none;
   margin-top: 10px;
   display: block;
@@ -114,9 +115,9 @@ a {
   background-color: #4A4A4A;
 }
 
-/* TODO: Replace with image later */
 #header {
-  background-color: #484848;
+  /*background-color: #484848;*/
+  background: #251b32 url('../images/galaxy.jpg');
 }
 
 .flex-box {

@@ -1,0 +1,21 @@
+References
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+http://docs.webplatform.org/wiki/css
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace
+http://api.jquery.com/append/
+http://opensourcehacker.com/2012/10/17/true-lies-and-falsy-values-in-python-and-javascript/
+http://www.sitepoint.com/javascript-truthy-falsy/
+asana.com
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
+http://www.dev-archive.net/articles/js-dot-notation/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function
+http://jsonlint.com/
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference how to use css properties in java script dom 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_when_to_use_them
+http://www.w3schools.com/jquery/sel_last.asp
+http://helephant.com/2008/08/19/functions-are-first-class-objects-in-javascript/
+http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html
+http://uva.onlinejudge.org/external/111/11172.html
