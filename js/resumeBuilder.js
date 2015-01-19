@@ -58,7 +58,19 @@ var education = {
 	"onlineCourses" : [
 		{
 			"school" : "Udacity",
+			"title" : "Intro to HTML and CSS",
+			"url" : "http://udacity.com",
+			"date" : "2014"
+		},
+		{
+			"school" : "Udacity",
 			"title" : "JavaScript Basics",
+			"url" : "http://udacity.com",
+			"date" : "2014"
+		},
+		{
+			"school" : "Udacity",
+			"title" : "Intro to jQuery",
 			"url" : "http://udacity.com",
 			"date" : "2014"
 		}
@@ -137,13 +149,13 @@ work.display = function() {
 var projects = {
 	projects : [
 		{
-			"title" : "JavaScript Project 1",
+			"title" : "Mockup to Website",
 			"dates" : "2014",
-			"description" : "Authoring resume using JavaScript to populate information to HTML template.",
+			"description" : "Replicate PDF design mockup in HTML and CSS.",
 			"images" : ["images/p1.jpg"]
 		},
 		{
-			"title" : "JavaScript Project 2",
+			"title" : "JavaScript Project",
 			"dates" : "2014",
 			"description" : "Authoring resume using JavaScript to populate information to HTML template.",
 			"images" : ["images/p2.png"]
